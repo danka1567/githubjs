@@ -995,9 +995,9 @@
         "title": "One Piece",
         "tmdb_id": 111110,
         "imdb_id": null,
-        "year": 2023,
-        "episodes": "2889-2896",
-        "episode_offset": 2888
+        "year": 1999,
+        "episodes": "2142-146179",
+        "episode_offset": 2141
     },
     {
         "serial_no": 101,
@@ -3546,8 +3546,8 @@
         "tmdb_id": 31910,
         "imdb_id": null,
         "year": 2007,
-        "episodes": "8482-8981",
-        "episode_offset": 8481
+        "episodes": "7882-8381",
+        "episode_offset": 7881
     },
     {
         "serial_no": 356,
@@ -6766,8 +6766,8 @@
         "tmdb_id": 46260,
         "imdb_id": null,
         "year": 2002,
-        "episodes": "17033-17252",
-        "episode_offset": 17032
+        "episodes": "12352-12371",
+        "episode_offset": 12351
     },
     {
         "serial_no": 678,
@@ -9746,8 +9746,8 @@
         "tmdb_id": null,
         "imdb_id": "tt3355694",
         "year": 2007,
-        "episodes": "25777-25778",
-        "episode_offset": 25776
+        "episodes": "1464-1500",
+        "episode_offset": 1463
     },
     {
         "serial_no": 976,
